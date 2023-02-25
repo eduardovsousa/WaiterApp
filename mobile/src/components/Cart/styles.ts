@@ -27,6 +27,7 @@ export const QuantityContainer = styled.View`
 `;
 
 export const ProductDetails = styled.View`
+  max-width: 150px;
 `;
 
 export const Sumary = styled.View`
